@@ -50,4 +50,3 @@ This project serves as a practical application of data science in understanding 
 
 ---
 
-This README layout includes all essential elements of your project report, formatted for readability and clarity. You can simply copy and paste this into your GitHub repository's README.md file. Adjust any specific details as necessary to better match your actual analysis and findings.
